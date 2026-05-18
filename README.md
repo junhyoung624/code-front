@@ -1,4 +1,5 @@
 # Code-Front: Git to AWS Deployment Pipeline
+# aws 연동예정임.
 
 > Git에 모인 코드를 AWS에 자동으로 배포하는 CI/CD 프로젝트
 
